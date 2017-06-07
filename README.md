@@ -1,3 +1,3 @@
 # DDB-infrastruktur
 
-<img src=https://github.com/rolfmadsen/DDB-infrastruktur/blob/master/DDB-infrastruktur.svg>
+<img src="../DDB-infrastruktur.svg" alt="Draw.io diagram" height=100% width=100%>
