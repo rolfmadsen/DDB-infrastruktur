@@ -1,3 +1,3 @@
 # DDB-infrastruktur
 
-![Draw.io diagram](../DDB-infrastruktur/DDB-infrastruktur.svg)
+![Draw.io diagram](https://raw.githubusercontent.com/rolfmadsen/DDB-infrastruktur/DDB-infrastruktur.svg)
