@@ -2,7 +2,7 @@
 
 ![Draw.io diagram](https://raw.githubusercontent.com/rolfmadsen/DDB-infrastruktur/master/DDB-infrastruktur.svg)
 
-<img src=https://raw.githubusercontent.com/rolfmadsen/DDB-infrastruktur/master/DDB-infrastruktur.svg>
+<img src=https://raw.githubusercontent.com/rolfmadsen/DDB-infrastruktur/master/DDB-infrastruktur.svg width="100%" height="144px">
 
 <object type="image/svg+xml" data="https://raw.githubusercontent.com/rolfmadsen/DDB-infrastruktur/master/DDB-infrastruktur.svg" width="" align="middle" style="
         transform: scale(1.0)
